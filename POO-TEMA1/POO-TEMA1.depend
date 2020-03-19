@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1584360902 source:d:\proiecte c++\poo-tema1\main.cpp
+	<iostream>
+	"Multime_Dinamica.h"
+
+1584361588 d:\proiecte c++\poo-tema1\multime_dinamica.h
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1584308632 d:\proiecte c++\poo-tema1\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1584308658 d:\proiecte c++\poo-tema1\node.h
+
+1584359796 source:d:\proiecte c++\poo-tema1\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1584308658 source:d:\proiecte c++\poo-tema1\node.cpp
+	"Node.h"
+
+1584362542 source:d:\proiecte c++\poo-tema1\multime_dinamica.cpp
+	"Multime_Dinamica.h"
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+	<set>
+	<unordered_set>
+	<vector>
+
+1584394070 source:c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1584391820 c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1584391490 c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\node.h
+
+1584391765 source:c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\main.cpp
+	<iostream>
+	"Multime_Dinamica.h"
+
+1584393637 c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\multime_dinamica.h
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1584393644 source:c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\multime_dinamica.cpp
+	"Multime_Dinamica.h"
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+	<set>
+	<unordered_set>
+	<vector>
+	<fstream>
+
+1584391490 source:c:\users\dupree\desktop\poo-tema1-prob12\poo-tema1\node.cpp
+	"Node.h"
+
